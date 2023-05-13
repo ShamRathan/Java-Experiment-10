@@ -51,7 +51,8 @@ public class Type {
         emp1.sal = "900k";
         emp2.departemnt = "AI-DS";
         emp1.specialization = "Data Analyst";
-        System.out.println(emp1.name + "\n" + emp1.age + "\n" + emp1.ph + "\n" + emp1.address + "\n" + emp1.specialization + "\n" + emp2.departemnt);
+        System.out.println(emp1.name + "\n" + emp1.age + "\n" + emp1.ph + "\n" + emp1.address
+                           + "\n" + emp1.specialization + "\n" + emp2.departemnt);
         emp1.dissal();
 
     }
