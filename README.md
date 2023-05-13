@@ -21,8 +21,9 @@ Step 5 : Using the 'extends' keyword you can inherit classes, do the same with a
 Step 6 : Display the statements from the first and secomd Class using Solution Class in the terminal.
 
 ## Program
-
-
+```
+Developed by: S.Sham Rathan
+Register.no : 212221230093 
 public class Employee extends Member {
     public String specialization;
 }
@@ -55,6 +56,7 @@ public class Type {
 
     }
 }
+```
 
 ## Output:
 ![image](https://github.com/ShamRathan/Java-Experiment-6/assets/93587823/c1484de9-daa0-4704-a0c0-1037c2e30fc9)
