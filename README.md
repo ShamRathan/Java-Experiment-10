@@ -1,9 +1,8 @@
-# Java-Experiment-6
+# Java-Experiment-10
 # Inheritance
 
 ## Aim:
-  To write a Java program using inheritance and Properties one class can acquire the properties of others.
-  
+  To write a Java program to Create a class named 'Member' having certain members.
 ## Algorithm
 
 Step 1 : Open Intelli J application or any other code editor.
